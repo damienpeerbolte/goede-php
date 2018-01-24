@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+img {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+  text-align: center;
+  top: 30%;
+  text-shadow: 1px 1px black;
+  font-weight: lighter;
+  color: white;
+  font-size: 50px;
+}
+
+p {
+  font-family: 'Lobster', cursive;
+  width: 100%;
+  position: absolute;
+  top: 40%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 1px 1px black;
+  font-weight: lighter;
+}
